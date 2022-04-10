@@ -1,0 +1,16 @@
+#header {
+    background: url(https://images.unsplash.com/photo-1415795854641-f4a487a0fdc8?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80) center center / cover no-repeat ;
+  }
+
+body{
+    background-color: #d9f5ca;
+}
+h2{
+    color: #88972f;
+}
+.my-font{
+    font-size: 2.5em;
+}
+.myfavfont{
+    font-size: 1.5em ;
+}
